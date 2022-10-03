@@ -1,12 +1,1 @@
-[
-	{
-		"id": 1,
-		"name": "Andres Gustov",
-		"email": "andddy7@gmail.com"
-	},
-	{
-		"id": 2,
-		"name": "Anthony Marklov",
-		"email": "antman33@gmail.com"
-	}
-]
+{"name": "test-name", "rollno": 56, "cgpa": 8.6, "phonenumber": "9976770500"}
