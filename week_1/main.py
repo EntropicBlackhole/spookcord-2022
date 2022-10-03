@@ -81,6 +81,76 @@ class start:
 				spaceCheck = False
 				os.system('cls')
 				break
+		print(styles.yellow + styles.bold + "====================" + styles.end)
+		print(styles.yellow + styles.bold + "  The Oregon Trail  " + styles.end)
+		print(styles.yellow + styles.bold + "====================" + styles.end)
+		# print()
+		print("What about supplies? Well, if you're")
+		print("low on food you can hunt. You might")
+		print("get a buffalo... you might. And there")
+		print("are bear in the mountains.")
+		# print()
+		print(styles.yellow + styles.bold + "====================" + styles.end)
+		print(styles.bold + "Press SPACE BAR to continue")
+		spaceCheck = True
+		time.sleep(2)
+		while spaceCheck:
+			if keyboard.is_pressed(" "):
+				spaceCheck = False
+				os.system('cls')
+				break
+		print(styles.yellow + styles.bold + "====================" + styles.end)
+		print(styles.yellow + styles.bold + "  The Oregon Trail  " + styles.end)
+		print(styles.yellow + styles.bold + "====================" + styles.end)
+		print("At the Dalles, you can try navigating")
+		print("the Columbia River, but if running the")
+		print("rapids with a makeshift raft makes you")
+		print("queasy, better take the Barlow Road.")
+		print(styles.yellow + styles.bold + "====================" + styles.end)
+		print(styles.bold + "Press SPACE BAR to continue")
+		spaceCheck = True
+		time.sleep(2)
+		while spaceCheck:
+			if keyboard.is_pressed(" "):
+				spaceCheck = False
+				os.system('cls')
+				break
+		print(styles.yellow + styles.bold + "====================" + styles.end)
+		print(styles.yellow + styles.bold + "  The Oregon Trail  " + styles.end)
+		print(styles.yellow + styles.bold + "====================" + styles.end)
+		print("If for some reason you don't survive -- your")
+		print("wagon burns, or thieves steal your oxen, or")
+		print("you run out of provisions, or you die of")
+		print("cholera -- don't give up! Try again... and")
+		print("again... until your name is up with the others")
+		print("on The Oregon Top Ten.")
+		print(styles.yellow + styles.bold + "====================" + styles.end)
+		print(styles.bold + "Press SPACE BAR to continue")
+		spaceCheck = True
+		time.sleep(2)
+		while spaceCheck:
+			if keyboard.is_pressed(" "):
+				spaceCheck = False
+				os.system('cls')
+				break
+		print(styles.yellow + styles.bold + "====================" + styles.end)
+		print(styles.yellow + styles.bold + "  The Oregon Trail  " + styles.end)
+		print(styles.yellow + styles.bold + "====================" + styles.end)
+		print("The software team responsible for")
+		print("creation of this product includes:")
+		print("Idea: Constant pressure for 17 hours of not even knowing where to start and procrastination")
+		print("Guiding and new fren across this event: Pratik#6965")
+		print("Actual coding: EntropicBlackhole and Google, \"a bit\" of StackOverflow, TabNine too, as Copilot is dead to me")
+		print("Main Supporters: My girlfriend, my girlfriend, Pratik, and my girlfriend, Tabnine kept helping so who's a good little AI?")
+		print(styles.yellow + styles.bold + "====================" + styles.end)
+		print(styles.bold + "Press SPACE BAR to continue")
+		spaceCheck = True
+		time.sleep(2)
+		while spaceCheck:
+			if keyboard.is_pressed(" "):
+				spaceCheck = False
+				os.system('cls')
+				break
 		start.start()
 
 class game:
